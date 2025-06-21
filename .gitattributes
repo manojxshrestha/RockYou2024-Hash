@@ -8,3 +8,4 @@ RockYou2024-Hash-6* filter=lfs diff=lfs merge=lfs -text
 RockYou2024-Hash-7* filter=lfs diff=lfs merge=lfs -text
 RockYou2024-Hash-8* filter=lfs diff=lfs merge=lfs -text
 RockYou2024-Hash-9* filter=lfs diff=lfs merge=lfs -text
+RockYou2024-Hash-10* filter=lfs diff=lfs merge=lfs -text
